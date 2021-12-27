@@ -1,4 +1,4 @@
---Cleaning Data in AQL Queries
+--Cleaning Data in SQL Queries
 
 SELECT *
 FROM PortfolioProject..NashvilleHousing
